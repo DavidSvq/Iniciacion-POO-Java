@@ -1,2 +1,5 @@
-# Iniciacion-POO-Java
-Tras una introduccion al mundo de la programacion, empiezo con la programacion orientada a objeto. 
+# Iniciación-POO-Java
+Tras una introducción al mundo de la programación, empiezo con la programación orientada a objeto. 
+En este repositirio se hayarán los primeros ejercicios enfocados a la POO: Creación de clases con sus atributos y métodos, herencias, interfaces, poliformismo, abstracción.
+
+
